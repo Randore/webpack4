@@ -45,5 +45,7 @@ Webpack 4: No need to declare entry and output paths in webpack.config.js file.
 Basic loader and plugin are already added to the package. Please check and modifiy the packages before installing.
 
 
+#### vulnerability
+As of this upload - node-sass as known vulnerabilities | waiting for an update.
 
 Feel free to update modify, open issues, raise PR's
