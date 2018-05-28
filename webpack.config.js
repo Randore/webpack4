@@ -9,7 +9,7 @@ module.exports = {
   plugins: [
     new CleanWebpackPlugin(['dist']),
     new HtmlWebpackPlugin({
-      title: 'MotorK'
+      title: 'Hello Webpack'
     }),
     new MiniCssExtractPlugin({
       filename: "[name].css",
